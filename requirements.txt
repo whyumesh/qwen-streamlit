@@ -1,0 +1,7 @@
+transformers==4.45.0
+torchvision
+torch
+streamlit
+pillow
+av
+qwen-vl-utils 
